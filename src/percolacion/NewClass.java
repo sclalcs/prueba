@@ -140,6 +140,10 @@ public class NewClass {
         percolacion.paso_cuarto();
         percolacion.paso_quinto();
         percolacion.paso_sexto();
+      
+        //esto es sólo un mensaje
+        
+        
         percolacion.paso_septimo();
 
     }
