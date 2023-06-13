@@ -142,6 +142,7 @@ public class NewClass {
         percolacion.paso_sexto();
       
         //esto es sólo un mensaje
+        //esto es otro mensaje
         
         
         percolacion.paso_septimo();
